@@ -1,0 +1,2 @@
+# McNemar_test
+データフレームからMcNemer検定を行う方法
